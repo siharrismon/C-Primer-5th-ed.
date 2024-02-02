@@ -1,0 +1,4 @@
+This is my string, how long should it be.
+While there is not end of file keep input
+Stop after the end of file and print me.
+
